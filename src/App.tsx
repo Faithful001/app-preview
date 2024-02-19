@@ -1,8 +1,10 @@
+import Ads from "./components/Ads/Ads"
 import Hero from "./components/Hero/Hero"
 import Navbar from "./components/Hero/Navbar"
 import Integration from "./components/Integration/Integration"
 import Marketing from "./components/Marketing/Marketing"
 import Stories from "./components/Stories/Stories"
+import Unleash from "./components/Unleash/Unleash"
 
 function App() {
 
@@ -16,6 +18,8 @@ function App() {
         <Stories/>
         <Marketing/>
         <Integration/>
+        <Unleash/>
+        <Ads/>
       </div>
     </>
   )

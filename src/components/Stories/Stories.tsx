@@ -16,7 +16,7 @@ const Stories = () => {
                 </div>
             ))}
             </div>
-            <button className="p-5 bg-[#E59C26] text-[#233966] rounded-md font-semibold">Click here to fill FREE creditor's report form</button>
+            <button className="p-5 bg-[#E59C26] text-[#233966] rounded-md font-semibold ">Click here to fill FREE creditor's report form</button>
         </div> 
     );
 }
